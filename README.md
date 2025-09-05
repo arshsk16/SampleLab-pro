@@ -24,6 +24,14 @@ Tkinter (GUI)
 Matplotlib (visualization)
 
 PyDub (audio slicing & playback)
+
 <img width="1918" height="1010" alt="f 33" src="https://github.com/user-attachments/assets/a1797d86-4cd9-49df-addd-dee25f45eaa3" />
 <img width="1792" height="282" alt="r4" src="https://github.com/user-attachments/assets/81d2fd48-868d-4567-b673-417e8e051414" />
+
+SampleLabPro/
+│── app.py                # Main GUI application
+│── process_audio.py       # Chord and tempo detection logic
+│── generate_thumbnails.py # AI sample thumbnails
+│── requirements.txt       # Dependencies
+│── /samples               # Example audio files
 
